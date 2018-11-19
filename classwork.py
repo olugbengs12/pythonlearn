@@ -1,3 +1,4 @@
+#program that takes count of numbers entered by a user and also notes the number, do a sum and return an average
 total = 0
 count = 0
 average = 0
